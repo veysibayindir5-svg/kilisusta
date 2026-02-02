@@ -58,6 +58,7 @@ export default function Anasayfa() {
             <Helmet>
                 <title>Kilis Usta | Kilis Merkez Usta Rehberi – Hemen Ara</title>
                 <meta name="description" content="Kilis Merkez'de elektrikçi, tesisatçı, kombi servisi ve daha fazlası. Güvenilir ustalara hemen ulaşın. Telefonla arayın veya konumlarını açın." />
+                <meta name="keywords" content="Kilis usta rehberi, Kilis nöbetçi elektrikçi, Kilis su tesisatçısı, Kilis en yakın usta, Kilis merkez ustalar" />
                 <link rel="canonical" href="https://kilisusta.com.tr/" />
             </Helmet>
 

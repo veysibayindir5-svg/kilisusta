@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import { HelmetProvider } from 'react-helmet-async';
 import { Layout } from './components/Layout';
 import Anasayfa from './pages/Anasayfa';
@@ -18,7 +18,7 @@ import KullanimSartlari from './pages/yasal/KullanimSartlari';
 function App() {
   return (
     <HelmetProvider>
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
           <Route path="/" element={<Layout />}>
             <Route index element={<Anasayfa />} />
@@ -36,7 +36,7 @@ function App() {
             <Route path="kullanim-sartlari" element={<KullanimSartlari />} />
           </Route>
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </HelmetProvider>
   );
 }
