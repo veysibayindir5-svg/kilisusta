@@ -1,0 +1,839 @@
+{
+    "ustalar": [
+        {
+            "id": "1",
+            "isim": "Emniyet Elektrik",
+            "telefon": "0541 179 80 00",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez, Şehitler Mah.",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "elektrikci"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "2",
+            "isim": "Ümit Elektrik",
+            "telefon": "0348 813 94 44",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "elektrikci"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "3",
+            "isim": "Dizayn Elektrik",
+            "telefon": "0541 390 36 24",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "elektrikci"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "4",
+            "isim": "Akım Elektrik & Aydınlatma",
+            "telefon": "0543 624 24 18",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "elektrikci"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "5",
+            "isim": "Özdağlı Elektrik",
+            "telefon": "0348 822 10 11",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "elektrikci"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "6",
+            "isim": "Şaşmazlar Elektrik",
+            "telefon": "0348 813 92 41",
+            "mahalle": "osmangazi",
+            "adres": "Osman Gazi Mah. Dereboyu Cad. No:4/B",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Osmangazi",
+            "kategoriler": [
+                "elektrikci"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "7",
+            "isim": "Özgök Elektrik Aydınlatma",
+            "telefon": "0348 813 72 17",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "elektrikci"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "8",
+            "isim": "Mucit Elektrik",
+            "telefon": "0544 530 86 63",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "elektrikci"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "9",
+            "isim": "ERSU Sıhhi Tesisat",
+            "telefon": "0348 813 37 20",
+            "mahalle": "altinuzum",
+            "adres": "Altınüzüm Mah. Nemika Cad. No:77/B",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Altinuzum",
+            "kategoriler": [
+                "su-tesisatcisi",
+                "kombi-dogalgaz"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "10",
+            "isim": "Uğur Sıhhi Tesisat",
+            "telefon": "0543 768 58 00",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "su-tesisatcisi"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "11",
+            "isim": "Göksu Sıhhi Tesisat",
+            "telefon": "0348 814 13 23",
+            "mahalle": "yediaralik",
+            "adres": "Yediaralık Mah. Halit Efendi Sok. 66/B",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Yediaralik",
+            "kategoriler": [
+                "su-tesisatcisi"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "12",
+            "isim": "Nöbetçi Tesisat 7/24",
+            "telefon": "0539 339 79 64",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "su-tesisatcisi"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "13",
+            "isim": "Pınar İklim DemirDöküm Servisi",
+            "telefon": "0850 222 18 33",
+            "mahalle": "okcular",
+            "adres": "Okçular Mah.",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Okcular",
+            "kategoriler": [
+                "kombi-dogalgaz",
+                "klima"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "14",
+            "isim": "Isımer Isıtma Soğutma",
+            "telefon": "0348 813 00 00",
+            "mahalle": "vaiz",
+            "adres": "Vaiz Mah. İpşir Paşa Cad. No:3/C",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Vaiz",
+            "kategoriler": [
+                "kombi-dogalgaz"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "15",
+            "isim": "Genel Klima Servisi",
+            "telefon": "0444 28 46",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "klima"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "16",
+            "isim": "Zeki Usta Beyaz Eşya",
+            "telefon": "0535 560 43 59",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "beyaz-esya"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "17",
+            "isim": "Murat Soğutma",
+            "telefon": "0348 814 42 52",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "beyaz-esya"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "18",
+            "isim": "Yavuz Teknik Servis",
+            "telefon": "0543 513 19 41",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "beyaz-esya"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "19",
+            "isim": "Teknik Soğutma Bosch Siemens",
+            "telefon": "0348 814 47 47",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "beyaz-esya"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "20",
+            "isim": "Arçelik Beko Yetkili Servis",
+            "telefon": "0348 813 66 66",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "beyaz-esya"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "21",
+            "isim": "Işık Dijital Elektronik",
+            "telefon": "0348 813 54 99",
+            "mahalle": "albay-ibrahim-karaoglanoglu",
+            "adres": "Albay İbrahim Karaoğlanoğlu Mah. Çukur Sok. 26",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Ibrahimpasa",
+            "kategoriler": [
+                "tv-uydu"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "22",
+            "isim": "Elmas Elektronik D-Smart",
+            "telefon": "0348 822 37 99",
+            "mahalle": "osmangazi",
+            "adres": "Osman Gazi Mah. Ali Metin Dirimtekin Cad. 11",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Osmangazi",
+            "kategoriler": [
+                "tv-uydu"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "23",
+            "isim": "Güneş Elektronik",
+            "telefon": "0348 814 12 76",
+            "mahalle": "sehitler",
+            "adres": "Şehitler Mah. Şehitler Abidesi Cad. 23/B",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Sehitler",
+            "kategoriler": [
+                "tv-uydu"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "24",
+            "isim": "Coşkun Elektronik LCD LED TV",
+            "telefon": "0537 652 33 08",
+            "mahalle": "altinuzum",
+            "adres": "Altınüzüm Mah. İsabey Sok. 18/A",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Altinuzum",
+            "kategoriler": [
+                "tv-uydu"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "25",
+            "isim": "Teknik Elektronik",
+            "telefon": "0543 659 53 69",
+            "mahalle": "mesetlik",
+            "adres": "Meşetlik Mah. Salihağa Çeşme Sok. 31",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Mesetlik",
+            "kategoriler": [
+                "tv-uydu"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "26",
+            "isim": "NurNet Bilişim",
+            "telefon": "0534 936 18 53",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "internet-modem"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "27",
+            "isim": "Vatan İSS Kablosuz İnternet",
+            "telefon": "0531 284 40 20",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "internet-modem"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "28",
+            "isim": "Bahadır Dekorasyon",
+            "telefon": "0348 814 39 86",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "marangoz"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "29",
+            "isim": "Has Mutfak Mobilya",
+            "telefon": "0348 814 26 74",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "marangoz",
+                "mobilya-montaj"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "30",
+            "isim": "Çiçek Mobilya",
+            "telefon": "0507 690 72 77",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "marangoz",
+                "mobilya-montaj"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "31",
+            "isim": "Meşe Mobilya",
+            "telefon": "0551 107 13 60",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "marangoz",
+                "mobilya-montaj"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "32",
+            "isim": "Sırmalı Doğrama Mobilya",
+            "telefon": "0348 822 19 71",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "marangoz",
+                "mobilya-montaj"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "33",
+            "isim": "Kilis Mobilya Montaj Ekibi",
+            "telefon": "0539 517 11 84",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "mobilya-montaj"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "34",
+            "isim": "Melisa Yapı Dekorasyon",
+            "telefon": "0536 850 14 76",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "boyaci-alci-siva"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "35",
+            "isim": "Mansuroğlu 7/24 Çilingir",
+            "telefon": "0532 000 00 00",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "cilingir"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "36",
+            "isim": "Elbeyli Anahtarcı",
+            "telefon": "0532 000 00 01",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "cilingir"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "37",
+            "isim": "Genç-Ay Temizlik",
+            "telefon": "0348 822 22 80",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "temizlik"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "38",
+            "isim": "Polden Temizlik",
+            "telefon": "0507 351 34 43",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "temizlik"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "39",
+            "isim": "Misyap Profesyonel Temizlik",
+            "telefon": "0850 308 50 17",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "temizlik"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "40",
+            "isim": "Kilis Nur Halı Yıkama",
+            "telefon": "0530 292 45 16",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "hali-yikama"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "41",
+            "isim": "Gökkuşağı Halı Yıkama",
+            "telefon": "0530 866 30 79",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "hali-yikama"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "42",
+            "isim": "Nur Cam",
+            "telefon": "0542 534 59 35",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "camci"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "43",
+            "isim": "Zirve Cam",
+            "telefon": "0544 779 10 79",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "camci"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "44",
+            "isim": "Kilis Özen Demir Doğrama",
+            "telefon": "0542 719 01 77",
+            "mahalle": "sanayi",
+            "adres": "Küçük Sanayi Sitesi 26.Blok No:3",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Sanayi",
+            "kategoriler": [
+                "kaynak-demir-dograma"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "45",
+            "isim": "Yalavaç Torna ve Kaynak",
+            "telefon": "0542 727 88 82",
+            "mahalle": "sanayi",
+            "adres": "Küçük Sanayi Sitesi 11. Blok No 8",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Sanayi",
+            "kategoriler": [
+                "kaynak-demir-dograma"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "46",
+            "isim": "Hacıoğlu Demir Doğrama",
+            "telefon": "0348 813 45 19",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "kaynak-demir-dograma"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "47",
+            "isim": "Hüner Pen PVC",
+            "telefon": "0537 655 56 32",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "pimapen-aluminyum"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "48",
+            "isim": "Setawin PVC Pencere",
+            "telefon": "0507 502 51 74",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "pimapen-aluminyum"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "49",
+            "isim": "Mezsim PVC Alüminyum",
+            "telefon": "0348 813 41 90",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "pimapen-aluminyum"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "50",
+            "isim": "Hilal Pen",
+            "telefon": "0541 655 74 55",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "pimapen-aluminyum"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "51",
+            "isim": "Ersöz Çatı & İzolasyon",
+            "telefon": "0533 151 86 62",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "cati-izolasyon"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "52",
+            "isim": "Kilis İzolasyon",
+            "telefon": "0538 011 55 53",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "cati-izolasyon"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "53",
+            "isim": "Sena Çiçekçilik Peyzaj",
+            "telefon": "0530 260 70 22",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "bahce-isleri"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "54",
+            "isim": "Yaşar İletişim Turkcell",
+            "telefon": "0348 813 00 00",
+            "mahalle": "yediaralik",
+            "adres": "Yedi Aralık Mah. Murtaza Cad. 35/C",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Yediaralik",
+            "kategoriler": [
+                "telefon-tamiri"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "55",
+            "isim": "Mega Elektronik",
+            "telefon": "0534 244 58 94",
+            "mahalle": "buyukkutah",
+            "adres": "Büyükkütah Mah. Hacı Derviş Sok. 4B",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Buyukkutah",
+            "kategoriler": [
+                "telefon-tamiri"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "56",
+            "isim": "Kavuşturan GSM",
+            "telefon": "0534 244 58 94",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "telefon-tamiri"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "57",
+            "isim": "Özmen Tekno Bilişim",
+            "telefon": "0348 813 00 00",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "bilgisayar-tamiri",
+                "guvenlik-sistemleri"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "58",
+            "isim": "Erentürk Bilgisayar",
+            "telefon": "0348 813 00 00",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "bilgisayar-tamiri"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "59",
+            "isim": "MAYASAN Güvenlik Kamera",
+            "telefon": "0542 518 53 11",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "guvenlik-sistemleri"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "60",
+            "isim": "ACME Güvenlik",
+            "telefon": "0538 719 45 93",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Merkez",
+            "kategoriler": [
+                "guvenlik-sistemleri"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "61",
+            "isim": "Başak Teknoloji",
+            "telefon": "0534 550 99 06",
+            "mahalle": "mesetlik",
+            "adres": "Meşetlik Mah. Odun Pazarı Sok. No:13",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Mesetlik",
+            "kategoriler": [
+                "guvenlik-sistemleri",
+                "tv-uydu"
+            ],
+            "etiketler": []
+        },
+        {
+            "id": "62",
+            "isim": "Kral Elektrik",
+            "telefon": "0544 479 54 96",
+            "mahalle": "yediaralik",
+            "adres": "Yedi Aralık Mah. Murtaza Cad. 56/1",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Yediaralik",
+            "kategoriler": [
+                "elektrikci"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
+        },
+        {
+            "id": "63",
+            "isim": "Mehmetler Sıhhi Tesisat",
+            "telefon": "0543 379 29 79",
+            "mahalle": "ekrem-cetin",
+            "adres": "Ekrem Çetin Mah. Harun Reşit Cad. 26",
+            "haritaLink": "https://maps.google.com/?q=Kilis+EkremCetin",
+            "kategoriler": [
+                "su-tesisatcisi"
+            ],
+            "etiketler": [
+                "aynı-gün",
+                "7-24"
+            ]
+        },
+        {
+            "id": "64",
+            "isim": "Yapar Elektrik",
+            "telefon": "0348 814 11 73",
+            "mahalle": "buyukkutah",
+            "adres": "Büyükkütah Mah., İslam Bey Sok. 4",
+            "haritaLink": "https://maps.google.com/?q=Kilis+Buyukkutah",
+            "kategoriler": [
+                "elektrikci"
+            ],
+            "etiketler": []
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "bloglar": [
+        {
+            "id": "1",
+            "baslik": "Kilis Merkez'de En Çok Çağrılan Ustalar",
+            "slug": "kilis-merkezde-en-cok-cagrilan-ustalar",
+            "kategori": "Genel",
+            "ikon": "📊",
+            "gorsel": "/images/blog/tamirat.png",
+            "ozet": "Kilis Merkez'de hangi usta hizmetleri en çok tercih ediliyor? İşte detaylı analiz.",
+            "icerik": "Kilis Merkez'de en sık ihtiyaç duyulan usta hizmetleri arasında elektrikçi, su tesisatçısı ve kombi servisi öne çıkıyor. Özellikle kış aylarında kombi arızaları, yaz aylarında ise klima bakımı talepleri artış gösteriyor.\n\nElektrik arızaları genellikle acil müdahale gerektirdiğinden, 7/24 hizmet veren elektrikçiler tercih ediliyor. Su tesisatı problemleri de benzer şekilde aciliyet taşıyor.\n\nKilis Usta olarak, tüm bu hizmetlere hızlıca ulaşmanızı sağlıyoruz."
+        },
+        {
+            "id": "2",
+            "baslik": "Elektrikçi Çağırmadan Önce Bilmeniz Gerekenler",
+            "slug": "elektrikci-cagirmadan-once-bilinmesi-gerekenler",
+            "kategori": "Elektrik",
+            "ikon": "⚡",
+            "gorsel": "/images/blog/elektrik.png",
+            "ozet": "Elektrik arızalarında güvenliğiniz için dikkat etmeniz gereken önemli noktalar.",
+            "icerik": "Elektrik arızası yaşadığınızda öncelikle sigortaları kontrol edin. Eğer sigorta attıysa, prizden çıkararak hangi cihazın soruna neden olduğunu tespit edebilirsiniz.\n\nKesinlikle ıslak elle elektrik tesisatına dokunmayın. Ciddi arızalarda ana şalteri kapatın ve profesyonel yardım alın.\n\nKilis Usta'da 7/24 hizmet veren elektrikçilere ulaşabilirsiniz."
+        },
+        {
+            "id": "3",
+            "baslik": "Su Tesisatçısı Ne Zaman Acil Çağrılmalı?",
+            "slug": "su-tesisatcisi-ne-zaman-acil-cagrilmali",
+            "kategori": "Tesisat",
+            "ikon": "🚿",
+            "gorsel": "/images/blog/tesisat.png",
+            "ozet": "Hangi su sorunları acil müdahale gerektirir? İşte bilmeniz gerekenler.",
+            "icerik": "Su sızıntısı, patlak boru veya ciddi tıkanıklık gibi durumlarda hemen tesisatçı çağırmalısınız. Bu sorunlar büyüyerek daha ciddi hasarlara neden olabilir.\n\nKüçük damlalar bile zamanla büyük sorunlara dönüşebilir. Su sayacınızı kontrol ederek gizli sızıntıları tespit edebilirsiniz.\n\nAcil durumlarda ana vanayi kapatıp en kısa sürede uzman yardımı alın."
+        },
+        {
+            "id": "4",
+            "baslik": "Kombi Arızalarında İlk Yapmanız Gerekenler",
+            "slug": "kombi-arizalarinda-ilk-yapmaniz-gerekenler",
+            "kategori": "Kombi",
+            "ikon": "🔥",
+            "gorsel": "/images/blog/tesisat.png",
+            "ozet": "Kombiniz çalışmıyor mu? Servisi aramadan önce bu adımları deneyin.",
+            "icerik": "Kombi arızası yaşadığınızda önce basınç göstergesini kontrol edin. Basınç 1-1.5 bar arasında olmalıdır. Düşükse su takviye vanasından basınç verin.\n\nHata kodu varsa not alın ve servise bildirin. Gaz vanasının açık olduğundan emin olun.\n\nYıllık bakım yaptırmak arıza riskini önemli ölçüde azaltır."
+        },
+        {
+            "id": "5",
+            "baslik": "Klima Bakımı Ne Zaman Yapılmalı?",
+            "slug": "klima-bakimi-ne-zaman-yapilmali",
+            "kategori": "Klima",
+            "ikon": "❄️",
+            "gorsel": "/images/blog/tesisat.png",
+            "ozet": "Klimanızın verimli çalışması için bakım zamanlaması önemlidir.",
+            "icerik": "Klima bakımı yılda en az bir kez, tercihen yaz sezonu öncesinde yapılmalıdır. Bakım; filtre temizliği, gaz kontrolü ve genel performans testini içerir.\n\nDüzenli bakım hem enerji tasarrufu sağlar hem de klimanızın ömrünü uzatır.\n\nFiltrelerinizi ayda bir kontrol edin ve gerekirse temizleyin."
+        },
+        {
+            "id": "6",
+            "baslik": "Usta Seçerken Dolandırılmamak İçin Dikkat Edilmesi Gerekenler",
+            "slug": "usta-secerken-dolandirilmamak-icin-dikkat-edilmesi-gerekenler",
+            "kategori": "Genel",
+            "ikon": "🛡️",
+            "gorsel": "/images/blog/tamirat.png",
+            "ozet": "Güvenilir usta bulmak için bilmeniz gereken ipuçları.",
+            "icerik": "Usta seçerken mutlaka referans isteyin. İş öncesi fiyat teklifi alın ve yazılı olarak kaydedin.\n\nKimlik bilgilerini kontrol edin. Çok düşük fiyat tekliflerine şüpheyle yaklaşın.\n\nKilis Usta'da listelenen ustalar güvenilirlik açısından değerlendirilmiştir."
+        },
+        {
+            "id": "7",
+            "baslik": "Mahalleye Göre Usta Bulmanın Avantajları",
+            "slug": "mahalleye-gore-usta-bulmanin-avantajlari",
+            "kategori": "Genel",
+            "ikon": "📍",
+            "gorsel": "/images/blog/tamirat.png",
+            "ozet": "Yakınınızdaki ustayı tercih etmenin size sağladığı faydalar.",
+            "icerik": "Mahallenizden usta çağırmak hem zaman hem de maliyet açısından avantajlıdır. Usta daha hızlı ulaşır ve yol masrafı daha az olur.\n\nAyrıca mahalle sakinlerinden referans almak daha kolaydır.\n\nKilis Usta'da mahallenize göre filtreleme yapabilirsiniz."
+        },
+        {
+            "id": "8",
+            "baslik": "Evde En Sık Bozulan Beyaz Eşyalar ve Çözümleri",
+            "slug": "evde-en-sik-bozulan-beyaz-esyalar-ve-cozumleri",
+            "kategori": "Beyaz Eşya",
+            "ikon": "🧊",
+            "gorsel": "/images/blog/beyazesya.png",
+            "ozet": "Buzdolabı, çamaşır makinesi arızalarında ne yapmalısınız?",
+            "icerik": "Çamaşır makinesi ve bulaşık makinesi en sık arıza yapan beyaz eşyalardır. Genellikle pompa, kapı kilidi veya kart arızaları görülür.\n\nBuzdolabı soğutmuyorsa önce termostat ayarını kontrol edin. Arka kısımdaki fanın çalışıp çalışmadığına bakın.\n\nGaranti süresi dolduysa yetkili servis yerine ekonomik alternatifler değerlendirebilirsiniz."
+        },
+        {
+            "id": "9",
+            "baslik": "Çilingir Çağırmadan Önce Deneyebileceğiniz Yöntemler",
+            "slug": "cilingir-cagirmadan-once-deneyebileceginiz-yontemler",
+            "kategori": "Çilingir",
+            "ikon": "🔐",
+            "gorsel": "/images/blog/cilingir.png",
+            "ozet": "Kapıda kaldınız mı? Önce bu yöntemleri deneyin.",
+            "icerik": "Kapı kilitli kaldıysanız panik yapmayın. Önce tüm pencerelerin kapalı olup olmadığını kontrol edin. Yedek anahtar bırakan komşularınız olabilir.\n\nApartman yöneticisi veya site güvenliğine ulaşmayı deneyin.\n\nÇilingir çağırırken kimlik sormayı unutmayın. Kilis Usta'da güvenilir çilingirlere ulaşabilirsiniz."
+        },
+        {
+            "id": "10",
+            "baslik": "Telefon Tamiri Öncesi Bilmeniz Gerekenler",
+            "slug": "telefon-tamiri-oncesi-bilmeniz-gerekenler",
+            "kategori": "Teknoloji",
+            "ikon": "📱",
+            "gorsel": "/images/blog/telefon.png",
+            "ozet": "Telefonunuzu tamire vermeden önce dikkat etmeniz gerekenler.",
+            "icerik": "Telefon tamiri öncesi mutlaka verilerinizi yedekleyin. Orijinal parça kullanılıp kullanılmadığını sorun.\n\nGaranti belgesi ve fatura isteyin. Tamir süresini ve maliyeti önceden öğrenin.\n\nEkran değişimi yapılacaksa orijinallik garantisi olan servisleri tercih edin."
+        },
+        {
+            "id": "11",
+            "baslik": "Evde Boya Badana Yaparken Dikkat Edilmesi Gerekenler",
+            "slug": "evde-boya-badana-yaparken-dikkat-edilmesi-gerekenler",
+            "kategori": "Tadilat",
+            "ikon": "🎨",
+            "gorsel": "/images/blog/boya.png",
+            "ozet": "Boya işlerinde profesyonel sonuç için ipuçları.",
+            "icerik": "Boya öncesi duvarların temiz ve düzgün olması önemlidir. Çatlaklar ve delikler alçı ile kapatılmalıdır.\n\nAstar kullanmak boyanın tutunmasını ve renginin canlı kalmasını sağlar.\n\nHavalandırma için pencereler açık tutulmalı, koku dağılana kadar odada kalınmamalıdır."
+        },
+        {
+            "id": "12",
+            "baslik": "Mobilya Montajında Yapılan En Büyük Hatalar",
+            "slug": "mobilya-montajinda-yapilan-en-buyuk-hatalar",
+            "kategori": "Mobilya",
+            "ikon": "🛋️",
+            "gorsel": "/images/blog/mobilya.png",
+            "ozet": "Mobilya montajında kaçınmanız gereken yaygın hatalar.",
+            "icerik": "Montaj öncesi tüm parçaları ve vidaları sayarak kontrol edin. Kullanım kılavuzunu dikkatlice okuyun.\n\nDoğru aletleri kullanın. Yanlış vida veya çivi kullanımı mobilyaya zarar verebilir.\n\nAğır mobilyaları tek başınıza kaldırmaya çalışmayın. Profesyonel montaj hizmeti almak güvenliğiniz için önemlidir."
+        },
+        {
+            "id": "13",
+            "baslik": "Halı Yıkama Sıklığı ve Önemi",
+            "slug": "hali-yikama-sikligi-ve-onemi",
+            "kategori": "Temizlik",
+            "ikon": "🧼",
+            "gorsel": "/images/blog/hali.png",
+            "ozet": "Halılarınızı ne sıklıkla yıkatmalısınız?",
+            "icerik": "Halılar yılda en az 1-2 kez profesyonel olarak yıkanmalıdır. Alerjik rahatsızlığı olanlar için bu süre daha kısa tutulabilir.\n\nDüzenli süpürge ile temizlik halının ömrünü uzatır. Leke oluştuğunda hemen müdahale edin.\n\nProfesyonel halı yıkama hem hijyen hem de halı ömrü açısından önemlidir."
+        },
+        {
+            "id": "14",
+            "baslik": "Cam Kırıldığında Yapılması Gerekenler",
+            "slug": "cam-kirildiginda-yapilmasi-gerekenler",
+            "kategori": "Camcı",
+            "ikon": "🪟",
+            "gorsel": "/images/blog/cam.png",
+            "ozet": "Cam kırılması durumunda güvenli müdahale yöntemleri.",
+            "icerik": "Cam kırıldığında önce alanı güvenli hale getirin. Eldiven giyerek büyük parçaları toplayın.\n\nKüçük parçalar için elektrikli süpürge kullanın. Çocukları ve evcil hayvanları alandan uzak tutun.\n\nCam ölçüsünü alırken kenardan kenara değil, kasanın iç kısmından ölçüm yapın."
+        },
+        {
+            "id": "15",
+            "baslik": "Evde İnternet Bağlantı Sorunları ve Çözümleri",
+            "slug": "evde-internet-baglanti-sorunlari-ve-cozumleri",
+            "kategori": "İnternet",
+            "ikon": "📶",
+            "gorsel": "/images/blog/teknoloji.png",
+            "ozet": "İnternet yavaşladığında veya kesildiğinde ne yapmalısınız?",
+            "icerik": "İnternet sorunlarında önce modemi kapatıp 30 saniye bekleyerek yeniden başlatın.\n\nKablo bağlantılarını kontrol edin. Modem ışıklarının normal yandığından emin olun.\n\nSorun devam ederse servis sağlayıcınızla iletişime geçin veya profesyonel destek alın."
+        },
+        {
+            "id": "16",
+            "baslik": "Çatı Sızıntılarını Önlemenin Yolları",
+            "slug": "cati-sizintilarini-onlemenin-yollari",
+            "kategori": "Çatı",
+            "ikon": "🏠",
+            "gorsel": "/images/blog/cati.png",
+            "ozet": "Çatı bakımı ve su izolasyonu hakkında bilmeniz gerekenler.",
+            "icerik": "Çatı bakımı yılda en az bir kez, tercihen yağmur mevsimi öncesinde yapılmalıdır.\n\nKırık kiremitleri ve bozuk izolasyonu zamanında yenilemek büyük hasarları önler.\n\nSu birikintisi oluşan yerler özellikle kontrol edilmelidir."
+        },
+        {
+            "id": "17",
+            "baslik": "Güvenlik Kamerası Seçerken Dikkat Edilmesi Gerekenler",
+            "slug": "guvenlik-kamerasi-secerken-dikkat-edilmesi-gerekenler",
+            "kategori": "Güvenlik",
+            "ikon": "📹",
+            "gorsel": "/images/blog/guvenlik.png",
+            "ozet": "Ev ve iş yeri güvenliği için kamera sistemi seçimi.",
+            "icerik": "Kamera çözünürlüğü en az 1080p olmalıdır. Gece görüşü özelliği olan kameraları tercih edin.\n\nKablosuz sistemler kurulum kolaylığı sağlar ancak internet bağlantısına bağımlılık oluşturur.\n\nKayıt süresi ve depolama kapasitesini ihtiyacınıza göre belirleyin."
+        },
+        {
+            "id": "18",
+            "baslik": "Bahçe Bakımının Mevsimsel Takvimi",
+            "slug": "bahce-bakiminin-mevsimsel-takvimi",
+            "kategori": "Bahçe",
+            "ikon": "🌳",
+            "gorsel": "/images/blog/bahce.png",
+            "ozet": "Her mevsim bahçenizde yapmanız gereken işler.",
+            "icerik": "İlkbaharda budama ve ekim zamanıdır. Yazın düzenli sulama ve zararlı kontrolü yapılmalıdır.\n\nSonbaharda yaprak temizliği ve kışa hazırlık önemlidir. Kışın ise soğuğa dayanıklı bitkilerin korunması gerekir.\n\nProfesyonel bahçe bakımı hem zamandan tasarruf sağlar hem de bahçenizin sağlıklı kalmasını garantiler."
+        },
+        {
+            "id": "19",
+            "baslik": "Pimapen Bakımı Nasıl Yapılır?",
+            "slug": "pimapen-bakimi-nasil-yapilir",
+            "kategori": "Pimapen",
+            "ikon": "🚪",
+            "gorsel": "/images/blog/pimapen.png",
+            "ozet": "Pimapen pencere ve kapılarınızın ömrünü uzatın.",
+            "icerik": "Pimapen contalarını yılda bir kez silikon bazlı bakım spreyiyle yağlayın.\n\nMenteşe ve kilitleri düzenli olarak kontrol edin. Sıkılaşan veya gevşeyen vidaları ayarlayın.\n\nCam çerçevelerini yumuşak deterjanla temizleyin, aşındırıcı maddeler kullanmayın."
+        },
+        {
+            "id": "20",
+            "baslik": "Bilgisayar Yavaşladığında Yapılması Gerekenler",
+            "slug": "bilgisayar-yavasladiginda-yapilmasi-gerekenler",
+            "kategori": "Teknoloji",
+            "ikon": "💻",
+            "gorsel": "/images/blog/teknoloji.png",
+            "ozet": "Yavaşlayan bilgisayarınız için pratik çözümler.",
+            "icerik": "Bilgisayarınız yavaşladıysa önce gereksiz programları kaldırın ve başlangıç programlarını azaltın.\n\nDisk temizliği yapın ve virüs taraması çalıştırın. RAM yetersizliği varsa kapasite artırımı düşünün.\n\nHDD yerine SSD kullanmak performansı önemli ölçüde artırır."
+        }
+    ]
+}

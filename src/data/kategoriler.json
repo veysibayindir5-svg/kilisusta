@@ -1,0 +1,151 @@
+{
+  "kategoriler": [
+    {
+      "id": "elektrikci",
+      "isim": "Elektrikçi",
+      "slug": "elektrikci",
+      "ikon": "⚡",
+      "aciklama": "Kilis Merkez'de elektrik arıza, tesisat ve tadilat işleri için elektrikçi ustaları"
+    },
+    {
+      "id": "su-tesisatcisi",
+      "isim": "Su Tesisatçısı",
+      "slug": "su-tesisatcisi",
+      "ikon": "🚿",
+      "aciklama": "Kilis Merkez'de su tesisatı, tıkanıklık ve sızdırma sorunları için tesisatçı ustaları"
+    },
+    {
+      "id": "kombi-dogalgaz",
+      "isim": "Kombi / Doğalgaz",
+      "slug": "kombi-dogalgaz",
+      "ikon": "🔥",
+      "aciklama": "Kilis Merkez'de kombi bakımı, arıza ve doğalgaz tesisatı için uzman ustalar"
+    },
+    {
+      "id": "klima",
+      "isim": "Klima",
+      "slug": "klima",
+      "ikon": "❄️",
+      "aciklama": "Kilis Merkez'de klima montaj, bakım ve arıza için klima ustaları"
+    },
+    {
+      "id": "beyaz-esya",
+      "isim": "Beyaz Eşya",
+      "slug": "beyaz-esya",
+      "ikon": "🧊",
+      "aciklama": "Kilis Merkez'de buzdolabı, çamaşır makinesi, bulaşık makinesi tamiri"
+    },
+    {
+      "id": "tv-uydu",
+      "isim": "TV / Uydu",
+      "slug": "tv-uydu",
+      "ikon": "📺",
+      "aciklama": "Kilis Merkez'de televizyon tamiri ve uydu kurulumu hizmeti"
+    },
+    {
+      "id": "internet-modem",
+      "isim": "İnternet / Modem",
+      "slug": "internet-modem",
+      "ikon": "📶",
+      "aciklama": "Kilis Merkez'de internet kurulumu ve modem arıza çözümü"
+    },
+    {
+      "id": "marangoz",
+      "isim": "Marangoz",
+      "slug": "marangoz",
+      "ikon": "🪚",
+      "aciklama": "Kilis Merkez'de ahşap işleri, kapı tamiri ve marangozluk hizmetleri"
+    },
+    {
+      "id": "mobilya-montaj",
+      "isim": "Mobilya Montaj",
+      "slug": "mobilya-montaj",
+      "ikon": "🛋️",
+      "aciklama": "Kilis Merkez'de mobilya montaj ve demontaj hizmetleri"
+    },
+    {
+      "id": "boyaci-alci-siva",
+      "isim": "Boyacı / Alçı / Sıva",
+      "slug": "boyaci-alci-siva",
+      "ikon": "🎨",
+      "aciklama": "Kilis Merkez'de boya badana, alçı ve sıva işleri için ustalar"
+    },
+    {
+      "id": "cilingir",
+      "isim": "Çilingir",
+      "slug": "cilingir",
+      "ikon": "🔐",
+      "aciklama": "Kilis Merkez'de 7/24 çilingir ve kilit değişim hizmeti"
+    },
+    {
+      "id": "temizlik",
+      "isim": "Temizlik",
+      "slug": "temizlik",
+      "ikon": "🧹",
+      "aciklama": "Kilis Merkez'de ev ve ofis temizliği hizmetleri"
+    },
+    {
+      "id": "hali-yikama",
+      "isim": "Halı Yıkama",
+      "slug": "hali-yikama",
+      "ikon": "🧼",
+      "aciklama": "Kilis Merkez'de halı ve koltuk yıkama hizmetleri"
+    },
+    {
+      "id": "camci",
+      "isim": "Camcı",
+      "slug": "camci",
+      "ikon": "🪟",
+      "aciklama": "Kilis Merkez'de cam değişimi ve ayna montaj hizmetleri"
+    },
+    {
+      "id": "kaynak-demir-dograma",
+      "isim": "Kaynak / Demir Doğrama",
+      "slug": "kaynak-demir-dograma",
+      "ikon": "⚙️",
+      "aciklama": "Kilis Merkez'de kaynak işleri ve demir doğrama hizmetleri"
+    },
+    {
+      "id": "pimapen-aluminyum",
+      "isim": "Pimapen / Alüminyum",
+      "slug": "pimapen-aluminyum",
+      "ikon": "🚪",
+      "aciklama": "Kilis Merkez'de pimapen ve alüminyum doğrama işleri"
+    },
+    {
+      "id": "cati-izolasyon",
+      "isim": "Çatı / İzolasyon",
+      "slug": "cati-izolasyon",
+      "ikon": "🏠",
+      "aciklama": "Kilis Merkez'de çatı tamiri ve su izolasyonu hizmetleri"
+    },
+    {
+      "id": "bahce-isleri",
+      "isim": "Bahçe İşleri",
+      "slug": "bahce-isleri",
+      "ikon": "🌳",
+      "aciklama": "Kilis Merkez'de bahçe düzenleme ve peyzaj hizmetleri"
+    },
+    {
+      "id": "telefon-tamiri",
+      "isim": "Telefon Tamiri",
+      "slug": "telefon-tamiri",
+      "ikon": "📱",
+      "aciklama": "Kilis Merkez'de cep telefonu ekran ve tamir hizmetleri"
+    },
+    {
+      "id": "bilgisayar-tamiri",
+      "isim": "Bilgisayar Tamiri",
+      "slug": "bilgisayar-tamiri",
+      "ikon": "💻",
+      "aciklama": "Kilis Merkez'de bilgisayar ve laptop tamir hizmetleri"
+    },
+    {
+      "id": "guvenlik-sistemleri",
+      "isim": "Güvenlik Sistemleri",
+      "slug": "guvenlik-sistemleri",
+      "ikon": "📹",
+      "aciklama": "Kilis Merkez'de kamera ve alarm sistemi kurulumu"
+    }
+  ]
+}
