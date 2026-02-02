@@ -25,6 +25,8 @@ export default function Header() {
     return location.pathname.startsWith(path);
   };
 
+  const linkColor = (to) => (isActive(to) ? '#00d4ff' : '#ffffff');
+
   return (
     <header className="fixed top-0 left-0 w-full z-50 bg-[#050b14]">
       <div className="container mx-auto px-4">
@@ -38,8 +40,10 @@ export default function Header() {
           </Link>
 
           <button
-            className="text-white text-2xl md:hidden"
+            className="md:hidden text-2xl"
+            style={{ color: '#fff' }}
             onClick={() => setIsMenuOpen(true)}
+            aria-label="Menü"
           >
             ☰
           </button>
@@ -50,9 +54,8 @@ export default function Header() {
               <Link
                 key={link.to}
                 to={link.to}
-                className={`text-white ${
-                  isActive(link.to) ? 'text-cyan-400' : ''
-                }`}
+                style={{ color: linkColor(link.to) }}
+                className="font-medium"
               >
                 {link.label}
               </Link>
@@ -81,8 +84,10 @@ export default function Header() {
               transition={{ type: 'tween' }}
             >
               <button
-                className="text-white text-2xl self-end"
+                className="text-2xl self-end"
+                style={{ color: '#fff' }}
                 onClick={() => setIsMenuOpen(false)}
+                aria-label="Kapat"
               >
                 ✕
               </button>
@@ -92,11 +97,8 @@ export default function Header() {
                   key={link.to}
                   to={link.to}
                   onClick={() => setIsMenuOpen(false)}
-                  className={`text-lg ${
-                    isActive(link.to)
-                      ? 'text-cyan-400'
-                      : 'text-white'
-                  }`}
+                  style={{ color: linkColor(link.to) }}
+                  className="text-lg font-medium"
                 >
                   {link.label}
                 </Link>
