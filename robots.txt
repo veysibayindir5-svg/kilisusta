@@ -1,0 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://kilisusta.com.tr/sitemap.xml
+
+# Disallow admin or private paths (if any in future)
+Disallow: /api/
