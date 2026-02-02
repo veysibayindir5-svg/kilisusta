@@ -1,0 +1,394 @@
+{
+    "mahalleler": [
+        {
+            "id": "merkez",
+            "isim": "Merkez (Tümü)",
+            "slug": "merkez"
+        },
+        {
+            "id": "sanayi",
+            "isim": "Sanayi Sitesi",
+            "slug": "sanayi"
+        },
+        {
+            "id": "abdioymagi",
+            "isim": "Abdioymağı Mahallesi",
+            "slug": "abdioymagi"
+        },
+        {
+            "id": "akpinar",
+            "isim": "Akpınar Mahallesi",
+            "slug": "akpinar"
+        },
+        {
+            "id": "albay-ibrahim-karaoglanoglu",
+            "isim": "Albay İbrahim Karaoğlanoğlu Mahallesi",
+            "slug": "albay-ibrahim-karaoglanoglu"
+        },
+        {
+            "id": "altinuzum",
+            "isim": "Altınüzüm Mahallesi",
+            "slug": "altinuzum"
+        },
+        {
+            "id": "aslan",
+            "isim": "Aslan Mahallesi",
+            "slug": "aslan"
+        },
+        {
+            "id": "asit",
+            "isim": "Aşıt Mahallesi",
+            "slug": "asit"
+        },
+        {
+            "id": "ataturk",
+            "isim": "Atatürk Mahallesi",
+            "slug": "ataturk"
+        },
+        {
+            "id": "baris",
+            "isim": "Barış Mahallesi",
+            "slug": "baris"
+        },
+        {
+            "id": "bilali-habes",
+            "isim": "Bilali Habeş Mahallesi",
+            "slug": "bilali-habes"
+        },
+        {
+            "id": "boluk",
+            "isim": "Bölük Mahallesi",
+            "slug": "boluk"
+        },
+        {
+            "id": "buyukkutah",
+            "isim": "Büyükkütah Mahallesi",
+            "slug": "buyukkutah"
+        },
+        {
+            "id": "canpolat-pasa",
+            "isim": "Canpolat Paşa Mahallesi",
+            "slug": "canpolat-pasa"
+        },
+        {
+            "id": "cumhuriyet",
+            "isim": "Cumhuriyet Mahallesi",
+            "slug": "cumhuriyet"
+        },
+        {
+            "id": "caylak",
+            "isim": "Çaylak Mahallesi",
+            "slug": "caylak"
+        },
+        {
+            "id": "demirciler",
+            "isim": "Demirciler Mahallesi",
+            "slug": "demirciler"
+        },
+        {
+            "id": "deveciler",
+            "isim": "Deveciler Mahallesi",
+            "slug": "deveciler"
+        },
+        {
+            "id": "dogan-gures-pasa",
+            "isim": "Doğan Güreş Paşa Mahallesi",
+            "slug": "dogan-gures-pasa"
+        },
+        {
+            "id": "ebulule",
+            "isim": "Ebulüle Mahallesi",
+            "slug": "ebulule"
+        },
+        {
+            "id": "ekrem-cetin",
+            "isim": "Ekrem Çetin Mahallesi",
+            "slug": "ekrem-cetin"
+        },
+        {
+            "id": "fatih-sultan-mehmet",
+            "isim": "Fatih Sultan Mehmet Mahallesi",
+            "slug": "fatih-sultan-mehmet"
+        },
+        {
+            "id": "gaziler",
+            "isim": "Gaziler Mahallesi",
+            "slug": "gaziler"
+        },
+        {
+            "id": "haci-gumus",
+            "isim": "Hacı Gümüş Mahallesi",
+            "slug": "haci-gumus"
+        },
+        {
+            "id": "haci-ilyas",
+            "isim": "Hacı İlyas Mahallesi",
+            "slug": "haci-ilyas"
+        },
+        {
+            "id": "hakverdi",
+            "isim": "Hakverdi Mahallesi",
+            "slug": "hakverdi"
+        },
+        {
+            "id": "hasan-kamil-demirbas",
+            "isim": "Hasan Kamil Demirbaş Mahallesi",
+            "slug": "hasan-kamil-demirbas"
+        },
+        {
+            "id": "helvacioglu",
+            "isim": "Helvacıoğlu Mahallesi",
+            "slug": "helvacioglu"
+        },
+        {
+            "id": "hindioglu",
+            "isim": "Hindioğlu Mahallesi",
+            "slug": "hindioglu"
+        },
+        {
+            "id": "hurriyet",
+            "isim": "Hürriyet Mahallesi",
+            "slug": "hurriyet"
+        },
+        {
+            "id": "innapli-kutah",
+            "isim": "İnnaplı Kütah Mahallesi",
+            "slug": "innapli-kutah"
+        },
+        {
+            "id": "islambey",
+            "isim": "İslambey Mahallesi",
+            "slug": "islambey"
+        },
+        {
+            "id": "ismet-pasa",
+            "isim": "İsmet Paşa Mahallesi",
+            "slug": "ismet-pasa"
+        },
+        {
+            "id": "kanuni-sultan-suleyman",
+            "isim": "Kanuni Sultan Süleyman Mahallesi",
+            "slug": "kanuni-sultan-suleyman"
+        },
+        {
+            "id": "karaali",
+            "isim": "Karaali Mahallesi",
+            "slug": "karaali"
+        },
+        {
+            "id": "kartalbey",
+            "isim": "Kartalbey Mahallesi",
+            "slug": "kartalbey"
+        },
+        {
+            "id": "kazim-karabekir",
+            "isim": "Kazım Karabekir Mahallesi",
+            "slug": "kazim-karabekir"
+        },
+        {
+            "id": "ketenciler",
+            "isim": "Ketenciler Mahallesi",
+            "slug": "ketenciler"
+        },
+        {
+            "id": "marasal-fevzi-cakmak",
+            "isim": "Maraşal Fevzi Çakmak Mahallesi",
+            "slug": "marasal-fevzi-cakmak"
+        },
+        {
+            "id": "mehmet-abdi-bulut",
+            "isim": "Mehmet Abdi Bulut Mahallesi",
+            "slug": "mehmet-abdi-bulut"
+        },
+        {
+            "id": "mehmet-rifat-kazancioglu",
+            "isim": "Mehmet Rıfat Kazancıoğlu Mahallesi",
+            "slug": "mehmet-rifat-kazancioglu"
+        },
+        {
+            "id": "mehmet-sanli",
+            "isim": "Mehmet Sanlı Mahallesi",
+            "slug": "mehmet-sanli"
+        },
+        {
+            "id": "mercidabik",
+            "isim": "Mercidabık Mahallesi",
+            "slug": "mercidabik"
+        },
+        {
+            "id": "mesetlik",
+            "isim": "Meşetlik Mahallesi",
+            "slug": "mesetlik"
+        },
+        {
+            "id": "mihali",
+            "isim": "Mıhali Mahallesi",
+            "slug": "mihali"
+        },
+        {
+            "id": "muallim-rifat-bilge",
+            "isim": "Muallim Rıfat Bilge Mahallesi",
+            "slug": "muallim-rifat-bilge"
+        },
+        {
+            "id": "mullahamit",
+            "isim": "Mullahamit Mahallesi",
+            "slug": "mullahamit"
+        },
+        {
+            "id": "mucahitler",
+            "isim": "Mücahitler Mahallesi",
+            "slug": "mucahitler"
+        },
+        {
+            "id": "muslumanbey",
+            "isim": "Müslümanbey Mahallesi",
+            "slug": "muslumanbey"
+        },
+        {
+            "id": "nacaroglu",
+            "isim": "Nacaroğlu Mahallesi",
+            "slug": "nacaroglu"
+        },
+        {
+            "id": "namik-kemal",
+            "isim": "Namık Kemal Mahallesi",
+            "slug": "namik-kemal"
+        },
+        {
+            "id": "namik-unler-pasa",
+            "isim": "Namık Ünler Paşa Mahallesi",
+            "slug": "namik-unler-pasa"
+        },
+        {
+            "id": "necmettin-erbakan",
+            "isim": "Necmettin Erbakan Mahallesi",
+            "slug": "necmettin-erbakan"
+        },
+        {
+            "id": "nedim-okmen",
+            "isim": "Nedim Ökmen Mahallesi",
+            "slug": "nedim-okmen"
+        },
+        {
+            "id": "nurettin",
+            "isim": "Nurettin Mahallesi",
+            "slug": "nurettin"
+        },
+        {
+            "id": "okcular",
+            "isim": "Okçular Mahallesi",
+            "slug": "okcular"
+        },
+        {
+            "id": "osmangazi",
+            "isim": "Osman Gazi Mahallesi",
+            "slug": "osmangazi"
+        },
+        {
+            "id": "oylum",
+            "isim": "Oylum Mahallesi",
+            "slug": "oylum"
+        },
+        {
+            "id": "oncupinar",
+            "isim": "Öncü Pınar Mahallesi",
+            "slug": "oncupinar"
+        },
+        {
+            "id": "polat-pasa",
+            "isim": "Polat Paşa Mahallesi",
+            "slug": "polat-pasa"
+        },
+        {
+            "id": "sarac-mehmet-cavus",
+            "isim": "Saraç Mehmet Çavuş Mahallesi",
+            "slug": "sarac-mehmet-cavus"
+        },
+        {
+            "id": "sehit-sakip",
+            "isim": "Şehit Sakıp Mahallesi",
+            "slug": "sehit-sakip"
+        },
+        {
+            "id": "sehitler",
+            "isim": "Şehitler Mahallesi",
+            "slug": "sehitler"
+        },
+        {
+            "id": "sih-abdullah",
+            "isim": "Şıh Abdullah Mahallesi",
+            "slug": "sih-abdullah"
+        },
+        {
+            "id": "sih-ahmet",
+            "isim": "Şıh Ahmet Mahallesi",
+            "slug": "sih-ahmet"
+        },
+        {
+            "id": "sih-mehmet",
+            "isim": "Şıh Mehmet Mahallesi",
+            "slug": "sih-mehmet"
+        },
+        {
+            "id": "sihlar",
+            "isim": "Şıhlar Mahallesi",
+            "slug": "sihlar"
+        },
+        {
+            "id": "sorhabil",
+            "isim": "Şörhabil Mahallesi",
+            "slug": "sorhabil"
+        },
+        {
+            "id": "tabakhane",
+            "isim": "Tabakhane Mahallesi",
+            "slug": "tabakhane"
+        },
+        {
+            "id": "tekye",
+            "isim": "Tekye Mahallesi",
+            "slug": "tekye"
+        },
+        {
+            "id": "tirikli",
+            "isim": "Tırıklı Mahallesi",
+            "slug": "tirikli"
+        },
+        {
+            "id": "tosyali",
+            "isim": "Tosyalı Mahallesi",
+            "slug": "tosyali"
+        },
+        {
+            "id": "vaiz",
+            "isim": "Vaiz Mahallesi",
+            "slug": "vaiz"
+        },
+        {
+            "id": "yasar-akturk",
+            "isim": "Yaşar Aktürk Mahallesi",
+            "slug": "yasar-akturk"
+        },
+        {
+            "id": "yavuz-sultan-selim",
+            "isim": "Yavuz Sultan Selim Mahallesi",
+            "slug": "yavuz-sultan-selim"
+        },
+        {
+            "id": "yediaralik",
+            "isim": "Yedi Aralık Mahallesi",
+            "slug": "yediaralik"
+        },
+        {
+            "id": "yeni-mahalle",
+            "isim": "Yeni Mahalle",
+            "slug": "yeni-mahalle"
+        },
+        {
+            "id": "zeytinli",
+            "isim": "Zeytinli Mahallesi",
+            "slug": "zeytinli"
+        }
+    ]
+}
