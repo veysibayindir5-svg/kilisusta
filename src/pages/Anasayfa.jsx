@@ -164,7 +164,15 @@ export default function Anasayfa() {
                 <div className="container">
                     <div className="section-header-row">
                         <h2>Popüler Hizmetler</h2>
-                        <Link to="/kategoriler" className="btn btn-secondary">
+                        <Link
+                            to="/kategoriler"
+                            className="btn btn-secondary"
+                            onClick={() => {
+                                window.scrollTo(0, 0);
+                                document.documentElement.scrollTop = 0;
+                                document.body.scrollTop = 0;
+                            }}
+                        >
                             Tümünü Gör →
                         </Link>
                     </div>
