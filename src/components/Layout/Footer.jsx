@@ -53,7 +53,6 @@ export default function Footer() {
 
                 <div className="footer-bottom">
                     <p>© {currentYear} KilisUsta.com.tr - Tüm hakları saklıdır.</p>
-                    <p style={{ fontSize: '0.7rem', opacity: 0.5, marginTop: '0.5rem' }}>v1.1 (03.02 09:30) - Cache Check</p>
                 </div>
             </div>
         </footer>

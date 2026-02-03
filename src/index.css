@@ -581,13 +581,17 @@ h6 {
     bottom: 0;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
+    /* Prevent cropping on small screens */
     gap: var(--space-6);
-    padding: var(--space-4);
+    padding: var(--space-20) var(--space-4) var(--space-4);
+    /* Add top padding to clear close button */
     background: #000000;
     z-index: 9999;
     transform: translateX(-100%);
     transition: transform var(--transition-base);
+    overflow-y: auto;
+    /* Enable scrolling if menu is tall */
   }
 
   .nav.open {
