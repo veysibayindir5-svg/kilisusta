@@ -22,18 +22,9 @@ export default function Layout() {
     return (
         <>
             <Header />
-            <AnimatePresence mode="wait">
-                <motion.main
-                    key={location.pathname}
-                    initial="initial"
-                    animate="animate"
-                    exit="exit"
-                    variants={pageVariants}
-                    transition={pageTransition}
-                >
-                    <Outlet />
-                </motion.main>
-            </AnimatePresence>
+            <main>
+                <Outlet />
+            </main>
             <Footer />
             <WhatsAppButton />
         </>
