@@ -23,7 +23,7 @@ const itemVariants = {
 };
 
 export default function Anasayfa() {
-    const popularKategoriler = kategorilerData.kategoriler.slice(0, 8);
+    const popularKategoriler = kategorilerData.kategoriler; // Tüm kategorileri göster
     const sonUstalar = ustalarData.ustalar.slice(0, 6);
 
     const faqData = [
@@ -160,21 +160,10 @@ export default function Anasayfa() {
             </div>
 
             {/* Kategoriler Section */}
-            <section className="section">
-                <div className="container">
-                    <div className="section-header-row">
-                        <h2>Popüler Hizmetler</h2>
-                        <Link
-                            to="/kategoriler"
-                            className="btn btn-secondary"
-                            onClick={() => {
-                                window.scrollTo(0, 0);
-                                document.documentElement.scrollTop = 0;
-                                document.body.scrollTop = 0;
-                            }}
-                        >
-                            Tümünü Gör →
-                        </Link>
+            <section className="section" style={{ overflow: 'visible', height: 'auto', maxHeight: 'none' }}>
+                <div className="container" style={{ overflow: 'visible', height: 'auto', maxHeight: 'none' }}>
+                    <div className="section-header">
+                        <h2 className="section-title">Popüler Hizmetler</h2>
                     </div>
                     <motion.div
                         className="grid grid-4"
@@ -182,6 +171,7 @@ export default function Anasayfa() {
                         initial="hidden"
                         whileInView="visible"
                         viewport={{ once: true }}
+                        style={{ overflow: 'visible', height: 'auto', maxHeight: 'none' }}
                     >
                         {popularKategoriler.map((kategori) => (
                             <motion.div key={kategori.id} variants={itemVariants}>
