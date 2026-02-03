@@ -58,70 +58,8 @@ export default function Anasayfa() {
             <Helmet>
                 <title>Kilis Usta | Kilis Merkez Usta Rehberi – Hemen Ara</title>
                 <meta name="description" content="Kilis Merkez'de elektrikçi, tesisatçı, kombi servisi ve daha fazlası. Güvenilir ustalara hemen ulaşın. Telefonla arayın veya konumlarını açın." />
+                <meta name="keywords" content="Kilis usta rehberi, Kilis nöbetçi elektrikçi, Kilis su tesisatçısı, Kilis en yakın usta, Kilis merkez ustalar" />
                 <link rel="canonical" href="https://kilisusta.com.tr/" />
-                <script type="application/ld+json">
-                    {`
-                        {
-                            "@context": "https://schema.org",
-                            "@graph": [
-                                {
-                                    "@type": "WebSite",
-                                    "name": "Kilis Usta",
-                                    "url": "https://kilisusta.com.tr/",
-                                    "potentialAction": {
-                                        "@type": "SearchAction",
-                                        "target": "https://kilisusta.com.tr/kategoriler?q={search_term_string}",
-                                        "query-input": "required name=search_term_string"
-                                    }
-                                },
-                                {
-                                    "@type": "ItemList",
-                                    "itemListElement": [
-                                        {
-                                            "@type": "SiteNavigationElement",
-                                            "position": 1,
-                                            "name": "Kategoriler",
-                                            "description": "Tüm usta kategorileri",
-                                            "url": "https://kilisusta.com.tr/kategoriler"
-                                        },
-                                        {
-                                            "@type": "SiteNavigationElement",
-                                            "position": 2,
-                                            "name": "Mahalleler",
-                                            "description": "Kilis mahallelerine göre ustalar",
-                                            "url": "https://kilisusta.com.tr/mahalleler"
-                                        },
-                                        {
-                                            "@type": "SiteNavigationElement",
-                                            "position": 3,
-                                            "name": "Elektrikçi",
-                                            "url": "https://kilisusta.com.tr/kategori/elektrikci"
-                                        },
-                                        {
-                                            "@type": "SiteNavigationElement",
-                                            "position": 4,
-                                            "name": "Su Tesisatçısı",
-                                            "url": "https://kilisusta.com.tr/kategori/su-tesisatcisi"
-                                        },
-                                        {
-                                            "@type": "SiteNavigationElement",
-                                            "position": 5,
-                                            "name": "Klima Servisi",
-                                            "url": "https://kilisusta.com.tr/kategori/klima"
-                                        },
-                                        {
-                                            "@type": "SiteNavigationElement",
-                                            "position": 6,
-                                            "name": "Usta Ol",
-                                            "description": "Hizmet veriyorsanız hemen kayıt olun",
-                                            "url": "https://kilisusta.com.tr/usta-ol"
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    `}
-                </script>
             </Helmet>
 
             {/* Hero Section */}
