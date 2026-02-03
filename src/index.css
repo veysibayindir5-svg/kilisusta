@@ -808,7 +808,8 @@ h6 {
 
 /* Page Header - Fix for sticky header overlap */
 .page-header {
-  padding: var(--space-12) 0 var(--space-8);
+  padding: var(--space-20) 0 var(--space-8);
+  /* Base padding */
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0)), var(--color-secondary);
   position: relative;
   /* Ensure it starts below the header if possible, or add enough padding */
@@ -817,8 +818,14 @@ h6 {
 
 @media (max-width: 768px) {
   .page-header {
-    padding-top: var(--space-16);
-    /* Extra padding for mobile sticky header */
+    padding-top: 140px !important;
+    /* Aggressive padding to clear sticky header */
+    margin-top: 0 !important;
+  }
+
+  /* Also add safety padding to the first section if page-header is missing */
+  main>.section:first-child {
+    padding-top: 120px !important;
   }
 }
 
