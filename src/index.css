@@ -806,6 +806,22 @@ h6 {
   }
 }
 
+/* Page Header - Fix for sticky header overlap */
+.page-header {
+  padding: var(--space-12) 0 var(--space-8);
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0)), var(--color-secondary);
+  position: relative;
+  /* Ensure it starts below the header if possible, or add enough padding */
+  margin-top: 0;
+}
+
+@media (max-width: 768px) {
+  .page-header {
+    padding-top: var(--space-16);
+    /* Extra padding for mobile sticky header */
+  }
+}
+
 /* ============================================
    USTA CARD
    ============================================ */
