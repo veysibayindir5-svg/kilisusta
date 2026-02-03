@@ -33,6 +33,7 @@ export default function Header() {
             className="menu-toggle"
             onClick={() => setIsMenuOpen(!isMenuOpen)}
             aria-label="Menüyü aç/kapa"
+            style={{ color: '#ffffff' }}
           >
             {isMenuOpen ? '✕' : '☰'}
           </button>
