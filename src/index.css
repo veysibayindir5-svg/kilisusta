@@ -563,7 +563,8 @@ h6 {
   display: none;
   padding: var(--space-2);
   font-size: var(--font-size-xl);
-  color: var(--color-white);
+  color: var(--color-white) !important;
+  background: transparent;
 }
 
 @media (max-width: 768px) {
