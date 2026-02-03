@@ -483,12 +483,21 @@ h6 {
 
 @media (max-width: 480px) {
 
-  .grid-2,
+  .grid-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
   .grid-3,
   .grid-4 {
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  /* Reduce gap on very small screens */
+  .grid {
+    gap: 1rem;
   }
 }
+
 
 /* ============================================
    HEADER
