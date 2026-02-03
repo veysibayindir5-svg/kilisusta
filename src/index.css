@@ -818,14 +818,14 @@ h6 {
 
 @media (max-width: 768px) {
   .page-header {
-    padding-top: 140px !important;
-    /* Aggressive padding to clear sticky header */
+    padding-top: 180px !important;
+    /* Even more aggressive padding */
     margin-top: 0 !important;
   }
 
   /* Also add safety padding to the first section if page-header is missing */
   main>.section:first-child {
-    padding-top: 120px !important;
+    padding-top: 150px !important;
   }
 }
 

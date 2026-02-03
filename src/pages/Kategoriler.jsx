@@ -1,20 +1,6 @@
 import { Helmet } from 'react-helmet-async';
-import { motion } from 'framer-motion';
 import KategoriCard from '../components/KategoriCard';
 import kategorilerData from '../data/kategoriler.json';
-
-const containerVariants = {
-    hidden: { opacity: 0 },
-    visible: {
-        opacity: 1,
-        transition: { staggerChildren: 0.05 }
-    }
-};
-
-const itemVariants = {
-    hidden: { opacity: 0, y: 20 },
-    visible: { opacity: 1, y: 0 }
-};
 
 export default function Kategoriler() {
     return (
@@ -34,18 +20,13 @@ export default function Kategoriler() {
 
             <section className="section">
                 <div className="container">
-                    <motion.div
-                        className="grid grid-4"
-                        variants={containerVariants}
-                        initial="hidden"
-                        animate="visible"
-                    >
+                    <div className="grid grid-4">
                         {kategorilerData.kategoriler.map((kategori) => (
-                            <motion.div key={kategori.id} variants={itemVariants}>
+                            <div key={kategori.id}>
                                 <KategoriCard kategori={kategori} />
-                            </motion.div>
+                            </div>
                         ))}
-                    </motion.div>
+                    </div>
                 </div>
             </section>
         </>
