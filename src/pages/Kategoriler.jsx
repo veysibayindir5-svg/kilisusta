@@ -1,8 +1,29 @@
 import { Helmet } from 'react-helmet-async';
+import { motion } from 'framer-motion';
 import KategoriCard from '../components/KategoriCard';
 import kategorilerData from '../data/kategoriler.json';
 
+const containerVariants = {
+    hidden: { opacity: 0 },
+    visible: {
+        opacity: 1,
+        transition: { staggerChildren: 0.05 }
+    }
+};
+
+const itemVariants = {
+    hidden: { opacity: 0, y: 20 },
+    visible: { opacity: 1, y: 0 }
+};
+
 export default function Kategoriler() {
+    // FORCE SCROLL TO TOP ON MOUNT
+    useEffect(() => {
+        window.scrollTo(0, 0);
+        document.documentElement.scrollTop = 0;
+        document.body.scrollTop = 0;
+    }, []);
+
     return (
         <>
             <Helmet>
@@ -20,13 +41,18 @@ export default function Kategoriler() {
 
             <section className="section">
                 <div className="container">
-                    <div className="grid grid-4">
+                    <motion.div
+                        className="grid grid-4"
+                        variants={containerVariants}
+                        initial="hidden"
+                        animate="visible"
+                    >
                         {kategorilerData.kategoriler.map((kategori) => (
-                            <div key={kategori.id}>
+                            <motion.div key={kategori.id} variants={itemVariants}>
                                 <KategoriCard kategori={kategori} />
-                            </div>
+                            </motion.div>
                         ))}
-                    </div>
+                    </motion.div>
                 </div>
             </section>
         </>

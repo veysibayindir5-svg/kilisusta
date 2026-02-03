@@ -1,5 +1,6 @@
 import { HashRouter, Routes, Route } from 'react-router-dom';
 import { HelmetProvider } from 'react-helmet-async';
+import { useEffect } from 'react';
 import { Layout } from './components/Layout';
 import Anasayfa from './pages/Anasayfa';
 import Kategoriler from './pages/Kategoriler';
@@ -16,6 +17,18 @@ import KVKK from './pages/yasal/KVKK';
 import KullanimSartlari from './pages/yasal/KullanimSartlari';
 
 function App() {
+  // Force scroll to top on ANY hash change
+  useEffect(() => {
+    const handleHashChange = () => {
+      window.scrollTo(0, 0);
+      document.documentElement.scrollTop = 0;
+      document.body.scrollTop = 0;
+    };
+
+    window.addEventListener('hashchange', handleHashChange);
+    return () => window.removeEventListener('hashchange', handleHashChange);
+  }, []);
+
   return (
     <HelmetProvider>
       <HashRouter>
