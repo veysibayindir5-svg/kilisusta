@@ -15,10 +15,13 @@ import CerezPolitikasi from './pages/yasal/CerezPolitikasi';
 import KVKK from './pages/yasal/KVKK';
 import KullanimSartlari from './pages/yasal/KullanimSartlari';
 
+import ScrollToTop from './components/ScrollToTop';
+
 function App() {
   return (
     <HelmetProvider>
       <BrowserRouter>
+        <ScrollToTop />
         <Routes>
           <Route path="/" element={<Layout />}>
             <Route index element={<Anasayfa />} />
