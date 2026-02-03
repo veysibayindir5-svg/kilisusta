@@ -5,14 +5,17 @@ export default function ScrollToTop() {
   const { pathname } = useLocation();
 
   useEffect(() => {
-    // Add small timeout to ensure DOM is ready and override any browser scroll restoration
+    // Disable browser's default scroll restoration to avoid conflicts
+    if ('scrollRestoration' in window.history) {
+      window.history.scrollRestoration = 'manual';
+    }
+
     const timer = setTimeout(() => {
-      window.scrollTo({
-        top: 0,
-        left: 0,
-        behavior: 'instant'
-      });
-    }, 0);
+      // Force scroll to top
+      window.scrollTo(0, 0);
+      document.documentElement.scrollTop = 0;
+      document.body.scrollTop = 0;
+    }, 10); // Small timeout to ensure render is complete
 
     return () => clearTimeout(timer);
   }, [pathname]);
