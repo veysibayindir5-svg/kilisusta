@@ -834,6 +834,20 @@
                 "elektrikci"
             ],
             "etiketler": []
+        },
+        {
+            "id": "65",
+            "isim": "Kçk Sıhhi Tesisat",
+            "telefon": "0541 843 04 33",
+            "mahalle": "merkez",
+            "adres": "Kilis Merkez",
+            "haritaLink": "https://share.google.com/eKcs5xrV0CqU4nPmV",
+            "kategoriler": [
+                "su-tesisatcisi"
+            ],
+            "etiketler": [
+                "aynı-gün"
+            ]
         }
     ]
 }
